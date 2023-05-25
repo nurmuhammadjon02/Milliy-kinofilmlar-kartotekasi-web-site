@@ -7,7 +7,7 @@
 - [x] REST APIs
 
 # How to run?
-1. git clone https://github.com/AnonC0DER/NovaFilm.git<br>
+1. git clone (https://github.com/nurmuhammadjon02/Milliy-kinofilmlar-kartotekasi-web-site.git)<br>
 2. cd NovaFilm<br>
 3. python3 manage.py createsuperuser<br>
 **Enter your username and password**<br>

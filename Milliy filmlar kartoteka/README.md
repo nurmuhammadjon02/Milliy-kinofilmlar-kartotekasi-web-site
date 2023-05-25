@@ -1,7 +1,4 @@
 # NovaFilm
-A django movie website.
-My Live Demo : http://novafilm.pythonanywhere.com/
-
 > Updated !<br>
 > Login, Register and Profile system added
 
